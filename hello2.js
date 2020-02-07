@@ -1,6 +1,6 @@
 function sayHello() {
-  var welt = "Welt"
-  return "Hallo " + welt
+  var count = 4 + 6;
+  return count + 3;
 }
 
 console.log(sayHello());

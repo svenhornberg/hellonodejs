@@ -1,6 +1,5 @@
 function sayHello() {
-  var welt = "Welt"
-  return "Hallo " + welt
+  return "Hallo Kerstin" 
 }
 
 console.log(sayHello());
